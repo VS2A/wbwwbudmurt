@@ -1,22 +1,19 @@
-# DEAR ASPIRING TRANSLATORS, PLEASE CHECK THE MAIN PAGE DESCRIPTION FIRST TO SEE IF YOUR TRANSLATION ALREADY EXISTS: https://ncase.itch.io/wbwwb (also check the Issues to see if your translation is already being worked on - collaborate with them if they're stuck!)
+# ГАЖАНО ӴОШАТСКОНЪЁС, ПОЖАЛУЙСТА, ЭСКЕРЫСЬКЕ ВАЛТӤСЬ БАМЫСЬ ОПИСАНИЕЗ, Тӥляд берыктэмды вань-а ини: https://ncase.itch.io/wbwwb (озьы ик эскере ужпумъёсты, мед адӟозы, тӥляд берыктэмды бордын ужало-а ини - соосын ӵош ужалэ ке!)
 
-*a game about news cycles, vicious cycles, infinite cycles*
-
-**[PLAY](https://ncase.itch.io/wbwwb)**
+*иворъёс, лек циклъёс, пумтэм циклъёс сярысь шудон*
 
 ---
 
-### Made with open culture, for open culture!
+### Усьтэм культураен лэсьтэмын, усьтэм культура понна!
 
-I'm releasing all my code and art to the public domain, under the [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) un-license. Which means if you wanna remix this to make your own way-too-meta game, or use it in a presentation or classroom or whatever, you already have my permission!
+Мон ваньзэ аслэсьтым кодаме но искусствоме калыклы лэзьясько, [Creative Commons Zero](http://creativecommons.org/publicdomain/zero/1.0/) лицензиятэк. Со валамон, тон ке потэ, тае ремикс лэсьтыны аслэсьтыд амалэн-туж-мета шудон, яке сое кутыны презентациын яке классын яке мар ке но, тон ини мынам разрешение!
 
-However, not *all* the code/art is mine. Credit's due where credit's due, so...
+Озьы ке но, *ваньмыз* ӧвӧл кода/искусство мынам. Кредит тыроно, кытын кредит тыроно, соин ик...
+**КОД:**    
+- [PIXI.js](https://github.com/pixijs/pixi.js), графикаез возьматон понна (MIT License)    
+- [Howler.js](https://github.com/goldfire/howler.js), куараосты шудэм понна (MIT License)
 
-**CODE:**    
-- [PIXI.js](https://github.com/pixijs/pixi.js), for rendering the graphics (MIT License)    
-- [Howler.js](https://github.com/goldfire/howler.js), for playing the sounds (MIT License)
-
-**SOUNDS:**    
+**КУАРАОС:**    
 - [squeak!](https://www.freesound.org/people/ermfilm/sounds/130011/) (CC BY)    
 - [park ambience](https://www.freesound.org/people/Mafon2/sounds/274175/) (CC Zero)    
 - [camera shutter](https://www.freesound.org/people/uEffects/sounds/207865/) (CC Zero)    
@@ -32,5 +29,5 @@ However, not *all* the code/art is mine. Credit's due where credit's due, so...
 - [creepy warp sound](https://www.freesound.org/people/Andromadax24/sounds/184476/) (CC BY)        
 - [crowd screaming](https://www.freesound.org/people/MultiMax2121/sounds/156860/) (CC Zero)        
 
-**ART:**    
-- For the ending, I modified [this photo of a laptop](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
+**ИСКУССТВО:**    
+- Пумиськон понна  [мон та туспуктэмез ноутбуклэсь воштӥ.](https://unsplash.com/photos/XyNi3rUEReE). (CC Zero)
