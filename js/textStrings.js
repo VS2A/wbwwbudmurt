@@ -4,40 +4,40 @@
 
 var textStrings_EN = {
 	// Act 1
-	"niceHat": "OOH NICE HAT",
-	"outtaHere": "yeah git on outta here",
-	"getARoom": "GROSS, GO GET A ROOM",
-	"notCoolAnymore": "nvm hats aren't cool anymore",
-	"tvOnTv": "A TV... ON TV!",
-	"cricky": "LIL' CRICKY <3",
-	"tooManyCrickets": "okay that's too many crickets",
-	"normalPeep": "just a normal peep",
-	"normalPeeps": "just some normal peeps",
-	"wowNothing": "WOWWEE, IT'S NOTHING",
+	"niceHat": "ОО, ӞЕЧ ШЛЯПА",
+	"outtaHere": "дыр, татысь потыны",
+	"getARoom": "ТУЖ СЕКСУАЛЬНОЙ, мын, комната басьтыны",
+	"notCoolAnymore": "nvm... шляпаос уг ни шулдыр",
+	"tvOnTv": "Телевизор... Телевизор вылын!",
+	"cricky": "ЛИЛ' КРИКИ <3",
+	"tooManyCrickets": "ярам, со туж трос сверчокъёс",
+	"normalPeep": "огшоры гинэ учкон",
+	"normalPeeps": "кӧня ке нормальной пипъёс гинэ",
+	"wowNothing": "ВАУВИ, СО НИЧЕГО",
 
 	// Act 2
-	"crazySquareAttacks": "CRAZED SQUARE ATTACKS",
-	"justMissed": "oooooh just missed it",
-	"somethingInteresting": "(ya gotta catch 'em doing *something* interesting...)",
-	"whoIsScreaming": "(ya gotta catch who's screaming at 'em)",
-	"circleFearsSquares": "CIRCLE FEARS SQUARES",
-	"whoScaresThem": "(ya gotta also catch *who* they're scared by)",
-	"areTheyScared": "(ya gotta catch 'em *being* scared by a square)", // not used
-	"squaresSnubCircles": "SQUARES SNUB CIRCLES",
+	"crazySquareAttacks": "CRAZED SQUARE АТТАКЪЁС",
+	"justMissed": "оооооо али гинэ ӧз шедьты",
+	"somethingInteresting": "(тӥ соосты *мар ке* тунсыкозэ лэсьтыкузы кутыны кулэ...)",
+	"whoIsScreaming": "(тон кутыны кулэ, кин соос вылэ ӟыгырске)",
+	"circleFearsSquares": "КРУГ КЫШКА КВАДРАТЪЁС",
+	"whoScaresThem": "(тон но кутыны кулэ *кин* соос кышкало)",
+	"areTheyScared": "(тон соосты кутыны кулэ *луыса* кышкаса квадрат)", // not used
+	"squaresSnubCircles": "КВАДРАТЪЁС SNUB КРУГЪЁС",
 	"areTheySnubbed": "(ya gotta catch 'em *while* snubbing a circle)", // not used
-	"everyoneHates": "EVERYONE HATES EVERYONE!!1!",
-	"almostEveryoneHates": "ALMOST EVERYONE HATES EVERYONE...",
-	"squaresHateCircles": "SQUARES HATE CIRCLES",
-	"circlesHateSquares": "CIRCLES HATE SQUARES",
+	"everyoneHates": "КОТЬКУДӤЗ КОТЬКУДӤЗЭ!1!1!",
+	"almostEveryoneHates": "ПОЧТИ ВСЕМ ВСЕГО НЕНАЖИВАТЬ...",
+	"squaresHateCircles": "КВАДРАТЪЁС КРУГЪЁСЫ",
+	"circlesHateSquares": "КРУГЪЁС КВАДРАТЪЁСЛЫ",
 	"areTheyYelling": "(ya gotta catch 'em *yelling* at others)", // not used
-	"nerdsNow": "what are these nerds doing now",
-	"schockedPeep": "why's this peep shocked?",
-	"whatever": "whatever",
+	"nerdsNow": "мар та ботаникъёс али каро",
+	"schockedPeep": "малы та пип шокчиз?",
+	"whatever": "мед",
 
 	// Act 3
-	"ellipsis": ". . .",
-	"coolNoMore": "hats ain't cool no more, haven't you heard?",
-	"beScared": "BE SCARED. BE ANGRY.",
+	"ellipsis": "...",
+	"coolNoMore": "шляпаос уг луо ни шулдыр, тон ӧд кылы-а?",
+	"beScared": "КЫШКЫСЬКЫ. ӝожомыны",
 
 	// MANIFESTO
 	"manifesto": [
@@ -63,31 +63,31 @@ var textStrings_EN = {
 	"chyronNothing": "WOWWEE, IT'S *NOTHING*",
 
 	// (credits0001.png)
-	"createdBy": "created by",
-	"NickyCase": "Nicky Case",
+	"createdBy": "кылдытэмын",
+	"NickyCase": "Ники Кейс ремикс лэсьтӥз VS2A",
 
 	// (credits0002.png)
-	"manyThanks": "many thanks to my playtesters:",
+	"manyThanks": "бадӟым тау мынам плейтестеръёсылы:",
 
 	// (credits000[3,4,5,6].png)
-	"patreonSupporters": "and to my patreon supporters:",
+	"patreonSupporters": "но мынам патреон дурбасьтӥсьёсылы:",
 
 	// (credits0007.png)
-	"lastButNotLeast": "and last but not least,",
+	"lastButNotLeast": "нош берпуметӥез, но ӧжыт ӧвӧл,",
 
 	// (credits0008.png)
-	"thankYouForPlaying": "thank YOU for playing!",
+	"thankYouForPlaying": "тау шудэмды понна!",
 
 	// (preload_play.png)
-	"playButton": "PLAY",
+	"playButton": "ШУДЫНЫ",
 
 	// (end_button.png) Post Credits
-	"otherWorkButton": "see my other work",
-	"buyCoffeeButton": "buy me a coffee",
-	"replayButton": "replay this mess",
+	"otherWorkButton": "мукет ужъёсме адӟе",
+	"buyCoffeeButton": "мыным кофе басьты",
+	"replayButton": "та жуг-жагез выльысь шудыны",
 
 	// (logo.png) Post Credits
-	"logoWBWWB": "SHARE THE PAIN:",
+	"logoWBWWB": "ЛЮКЕТЭЗ:",
 
 	// (end_prototype.png)
 	"endOfPrototype": "END OF PROTOTYPE",
